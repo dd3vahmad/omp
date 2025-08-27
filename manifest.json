@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "omp",
+	"name": "OMP | Obsidian Markdown Publisher",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Enables developers to easily publish their markdown contents.",
+	"author": "Ahmad Rabiu",
+	"authorUrl": "https://theahmad.me",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
